@@ -1,4 +1,4 @@
-// Read a single digit number and write the number in word
+// Read a single digit number and Write the number in word
 let number = Math.floor(Math.random()*10);
 console.log("Number : "+number);
 if (number == 1) 
