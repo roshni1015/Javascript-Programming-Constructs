@@ -1,4 +1,4 @@
-// Enter 3 Numbers do arithmetic operation
+// Enter 3 Numbers do Arithmetic Operation
 let a = Math.floor(Math.random()*90) + 1;
 let b = Math.floor(Math.random()*90) + 1;
 let c = Math.floor(Math.random()*90) + 1;
