@@ -1,4 +1,4 @@
-// Check input Year is a Leap Year or not.
+// Check Input Year is a Leap Year or not.
 let Year = (Math.floor(Math.random() *9000)+1000); 
 console.log("Year : "+Year);
 CheckLeap1=Year % 400;
