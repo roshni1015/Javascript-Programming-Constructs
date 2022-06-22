@@ -1,5 +1,5 @@
 const prompt = require("prompt-sync")();
-var n = prompt("Please enter the number :");
+var n = prompt("Please enter the number : ");
 
 function rev(n, temp)
 {
