@@ -1,4 +1,4 @@
-// Read a Number and Display the week day 
+// Read a Number and Display the Week day 
 let number = Math.floor(Math.random()*7) + 1;
 console.log("Number : "+number);
 if (number == 1) 
