@@ -1,5 +1,5 @@
 const prompt = require("prompt-sync")();
-var number = prompt("Enter a number :");
+var number = prompt("Enter a number : ");
 let count=0;
 var OutputOfpalindrome =0;
 function Palindrome(number){
