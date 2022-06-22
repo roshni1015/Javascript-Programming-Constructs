@@ -1,4 +1,4 @@
-// Read a Number 1, 10, 100, 1000, etc and display unit, ten, hundred,...
+// Read a Number 1, 10, 100, 1000, etc and display unit, ten, hundred,..
 let power = Math.floor(Math.random()*10)%7;
 let number = 10**power;
 console.log("Number : "+number);
