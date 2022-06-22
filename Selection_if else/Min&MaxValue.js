@@ -1,4 +1,4 @@
-// Read 5 Random 3 Digit values and then outputs the minimum and the maximum value
+// Read 5 Random 3 Digit values and then outputs the Minimum and the Maximum value
 let num1= Math.floor(Math.random() * 900)+100;  
 let num2= Math.floor(Math.random() * 900)+100; 
 let num3= Math.floor(Math.random() * 900)+100; 
