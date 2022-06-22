@@ -2,7 +2,7 @@
 let Day=(Math.floor(Math.random() * 10)%31)+1;
 let Month=(Math.floor(Math.random() * 10)%6)+1;
 
-console.log("Day : " +Day+ " & Month : " +Month);
+console.log("Day : " + Day + " & Month : " +Month);
 if ( Day> 20 && Day< 31 && Month == 3 )
 {
 console.log("Given Date is Between Range.");
